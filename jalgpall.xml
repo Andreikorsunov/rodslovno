@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<voistkond>
+  <nimetus>FC Flora</nimetus>
+  <looaasta>1990</looaasta>
+  <duubelvoistkond>
+    <voistkond>
+      <nimetus>FC Flora U21</nimetus>
+      <looaasta>1990</looaasta>
+    </voistkond>
+  </duubelvoistkond>
+  <nimetus>FCI Levadia</nimetus>
+  <looaasta>1998</looaasta>
+  <duubelvoistkond>
+    <voistkond>
+      <nimetus>FCI Levadia U21</nimetus>
+      <looaasta>1998</looaasta>
+    </voistkond>
+  </duubelvoistkond>
+</voistkond>
